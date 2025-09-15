@@ -81,4 +81,4 @@ Key Coursework: Machine Learning, Deep Learning, NLP, Computer Vision, Data Visu
 
 ---
 
-> 💡 *This portfolio is designed to highlight both Data Analyst and Data Engineer capabilities. Recruiters can explore individual project folders for detailed READMEs, datasets, and code.*
+
